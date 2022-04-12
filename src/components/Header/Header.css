@@ -1,0 +1,21 @@
+.navigation{
+
+background-color: rgb(33, 24, 11);
+height: 80px;
+
+}
+.navigation a{
+
+          margin: 20px;
+          font-size: 20px;
+          text-decoration: none;
+         line-height: 80px;
+         color: white;
+}
+
+.navigation .active{
+
+          color: rgb(243, 79, 79);
+}
+
+ 
